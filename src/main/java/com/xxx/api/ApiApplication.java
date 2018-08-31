@@ -1,4 +1,4 @@
-package com.cmiot.api;
+package com.xxx.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author zhangst
  * @version 2018-5-3
  */
-@SpringBootApplication(scanBasePackages = "com.cmiot.api")
+@SpringBootApplication(scanBasePackages = "com.xxx.api")
 public class ApiApplication {
 
     public static void main(String[] args) {

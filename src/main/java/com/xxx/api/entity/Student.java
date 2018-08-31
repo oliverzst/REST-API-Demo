@@ -1,4 +1,4 @@
-package com.cmiot.api.entity;
+package com.xxx.api.entity;
 
 import lombok.Data;
 

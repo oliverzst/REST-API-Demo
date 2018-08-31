@@ -1,10 +1,10 @@
-package com.cmiot.api.controller;
+package com.xxx.api.controller;
 
-import com.cmiot.api.entity.Student;
-import com.cmiot.api.exception.ApiStatus;
-import com.cmiot.api.exception.UserException;
-import com.cmiot.api.response.ApiResponse;
-import com.cmiot.api.utils.DateUtils;
+import com.xxx.api.entity.Student;
+import com.xxx.api.exception.ApiStatus;
+import com.xxx.api.exception.UserException;
+import com.xxx.api.response.ApiResponse;
+import com.xxx.api.utils.DateUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.MediaType;
 import org.springframework.validation.annotation.Validated;

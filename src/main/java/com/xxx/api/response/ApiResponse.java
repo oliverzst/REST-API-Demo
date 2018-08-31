@@ -1,7 +1,7 @@
-package com.cmiot.api.response;
+package com.xxx.api.response;
 
-import com.cmiot.api.exception.ApiStatus;
-import com.cmiot.api.exception.UserException;
+import com.xxx.api.exception.ApiStatus;
+import com.xxx.api.exception.UserException;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.NonNull;
 

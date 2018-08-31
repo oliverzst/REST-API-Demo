@@ -1,8 +1,8 @@
-package com.cmiot.api.controller;
+package com.xxx.api.controller;
 
-import com.cmiot.api.exception.ApiStatus;
-import com.cmiot.api.exception.UserException;
-import com.cmiot.api.response.ApiResponse;
+import com.xxx.api.exception.ApiStatus;
+import com.xxx.api.exception.UserException;
+import com.xxx.api.response.ApiResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
@@ -25,7 +25,7 @@ import java.time.format.DateTimeParseException;
  */
 @Slf4j
 @ResponseBody
-@ControllerAdvice("com.cmiot.api.controller")
+@ControllerAdvice("com.xxx.api.controller")
 public class ApiExceptionHandler {
 
     @ResponseStatus(HttpStatus.BAD_REQUEST)

@@ -1,4 +1,4 @@
-package com.cmiot.api.exception;
+package com.xxx.api.exception;
 
 /**
  * 客户端请求异常
